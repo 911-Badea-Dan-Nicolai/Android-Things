@@ -8,7 +8,7 @@ This is the individual project for the Android Things class, BBU, CS, Sem 6, 202
 I have created a system that checks the soil moisture of a plant. Depending on this moisture level, the signal is interpreted as being too low or too high, displaying if the soil is wet enough or too dry.
 
 ## Schema
-
+![image](https://github.com/911-Badea-Dan-Nicolai/Android-Things/assets/61412576/e22ad8ee-9bf8-46a5-8ccc-c51a57212da6)
 *I used Tinkercad for this schema and the moisture sensor is not exactly the same, but it's another variation of the same component*
 
 ## Prerequisites
