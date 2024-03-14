@@ -1,22 +1,19 @@
-# Android-Things
-This is the individual project for the Android Things class, BBU, CS, Sem 6, 2024
-
-
 
 ## Overview
 
-I have created a system that checks the soil moisture of a plant. Depending on this moisture level, the signal is interpreted as being too low or too high, displaying if the soil is wet enough or too dry.
+I have created a system that checks the soil moisture of a plant. Depending on this moisture level, the signal is interpreted as being too low or too high, displaying if the soil is wet enough or too dry. The project is good for monitoring house plant soil levels and notifying if the plants need more watering.
 
 ## Schema
-![image](https://github.com/911-Badea-Dan-Nicolai/Android-Things/assets/61412576/e22ad8ee-9bf8-46a5-8ccc-c51a57212da6)
+
 *I used Tinkercad for this schema and the moisture sensor is not exactly the same, but it's another variation of the same component*
 
-## Prerequisites
+## Pre-requisites
 
-- Arduino uno
-- Power cable for Arduino
-- Moisture sensor
-- 3 mother-father cables
+- ARDUINO UNO R3 ATMEGA328P (https://cleste.ro/arduino-uno-r3-atmega328p.html)
+- USB A-B 0.3M CABLE (https://cleste.ro/cablu-usb-a-b-05m.html)
+- MOISTURE SENSOR MODULE (https://cleste.ro/modul-cu-senzor-umiditate-sol.html)
+- 3 DUPONT WIRES 20CM (https://cleste.ro/10xfire-dupont-mama-tata-20cm.html)
+- ARDUINO IDE (https://www.arduino.cc/en/software)
 
 ## Setup and Build Plan
 
@@ -27,7 +24,9 @@ I have created a system that checks the soil moisture of a plant. Depending on t
 	- The ground from the moisture sensor circuit to the ground of the Arduino (GND)
 	- The VCC from the moisture sensor circuit to the 5V from the Arduino
 4. We then connect the Arduino to the computer through the power cable having the IDE started.
-5. We run the code
-6. Then place the moisture sensor inside the soil of a house plant
-7. Watch the results as we pour more water into the soil
 
+## Running
+
+1. We run the code
+2. Then place the moisture sensor inside the soil of a house plant
+3. Watch the results as we pour more water into the soil
