@@ -4,7 +4,7 @@
 I have created a system that checks the soil moisture of a plant. Depending on this moisture level, the signal is interpreted as being too low or too high, displaying if the soil is wet enough or too dry. The project is good for monitoring house plant soil levels and notifying if the plants need more watering.
 
 ## Schema
-
+![image](https://github.com/911-Badea-Dan-Nicolai/Android-Things/assets/61412576/e27a7e37-2fd2-4a66-9fde-5628125b0637)
 *I used Tinkercad for this schema and the moisture sensor is not exactly the same, but it's another variation of the same component*
 
 ## Pre-requisites
